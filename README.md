@@ -12,7 +12,7 @@ Just three layers are created which are convolution (conv for short), ReLU, and 
 5. Max Pooling layer: Applying the pooling operation on the output of ReLU layer.
 6. Stacking conv, ReLU, and max pooling layers.
 
-You can have quick review with [juputer notebook file](https://github.com/avvineed/Convolutional-neural-network-Numpy/blob/master/CNN.ipynb).
+You can have quick review with [juputer notebook file](https://github.com/Changhyun-song/Convolutional-Neural-Network-only-numpy/blob/main/CNN.ipynb).
 
 ## Dependencies
 
